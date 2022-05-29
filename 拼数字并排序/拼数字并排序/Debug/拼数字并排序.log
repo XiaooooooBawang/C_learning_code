@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\小霸王\source\c++\拼数字并排序\拼数字并排序\源.cpp(16,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\小霸王\source\c++\拼数字并排序\拼数字并排序\源.cpp(29,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\小霸王\source\c++\拼数字并排序\拼数字并排序\源.cpp(34,20): warning C4018: “<”: 有符号/无符号不匹配
+  拼数字并排序.vcxproj -> C:\Users\小霸王\source\c++\拼数字并排序\Debug\拼数字并排序.exe
