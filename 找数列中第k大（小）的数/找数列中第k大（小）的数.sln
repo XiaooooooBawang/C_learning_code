@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "找数列中第k大（小）的数", "找数列中第k大（小）的数\找数列中第k大（小）的数.vcxproj", "{D4FB8870-52FF-4A76-8F3B-EF1B8459CC07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4FB8870-52FF-4A76-8F3B-EF1B8459CC07}.Debug|x64.ActiveCfg = Debug|x64
+		{D4FB8870-52FF-4A76-8F3B-EF1B8459CC07}.Debug|x64.Build.0 = Debug|x64
+		{D4FB8870-52FF-4A76-8F3B-EF1B8459CC07}.Debug|x86.ActiveCfg = Debug|Win32
+		{D4FB8870-52FF-4A76-8F3B-EF1B8459CC07}.Debug|x86.Build.0 = Debug|Win32
+		{D4FB8870-52FF-4A76-8F3B-EF1B8459CC07}.Release|x64.ActiveCfg = Release|x64
+		{D4FB8870-52FF-4A76-8F3B-EF1B8459CC07}.Release|x64.Build.0 = Release|x64
+		{D4FB8870-52FF-4A76-8F3B-EF1B8459CC07}.Release|x86.ActiveCfg = Release|Win32
+		{D4FB8870-52FF-4A76-8F3B-EF1B8459CC07}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93060026-5EC1-4429-A3ED-1727769A3485}
+	EndGlobalSection
+EndGlobal

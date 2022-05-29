@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "floodfill满水填充法（种子填充法）", "floodfill满水填充法（种子填充法）\floodfill满水填充法（种子填充法）.vcxproj", "{71C125B5-60EB-445A-88D6-6A8B9AA04952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71C125B5-60EB-445A-88D6-6A8B9AA04952}.Debug|x64.ActiveCfg = Debug|x64
+		{71C125B5-60EB-445A-88D6-6A8B9AA04952}.Debug|x64.Build.0 = Debug|x64
+		{71C125B5-60EB-445A-88D6-6A8B9AA04952}.Debug|x86.ActiveCfg = Debug|Win32
+		{71C125B5-60EB-445A-88D6-6A8B9AA04952}.Debug|x86.Build.0 = Debug|Win32
+		{71C125B5-60EB-445A-88D6-6A8B9AA04952}.Release|x64.ActiveCfg = Release|x64
+		{71C125B5-60EB-445A-88D6-6A8B9AA04952}.Release|x64.Build.0 = Release|x64
+		{71C125B5-60EB-445A-88D6-6A8B9AA04952}.Release|x86.ActiveCfg = Release|Win32
+		{71C125B5-60EB-445A-88D6-6A8B9AA04952}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2A7A7D4-577C-4172-A232-1BDAEB320DFB}
+	EndGlobalSection
+EndGlobal
